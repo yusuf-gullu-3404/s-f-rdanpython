@@ -1,1 +1,2 @@
-# s-f-rdanpython
+BTK akademi python kursu ögrenim 
+
